@@ -17,4 +17,8 @@ With a background in UX/UI design, I bring a strong understanding of user-center
 
 ### 📍 Based in Portugal, open to remote opportunities!
 
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/moniqueruggeri/)
+
 Feel free to connect with me or check out my projects below!
