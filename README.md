@@ -19,6 +19,6 @@ With a background in UX/UI design, I bring a strong understanding of user-center
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/moniqueruggeri/)
+- [LinkedIn](https://www.linkedin.com/in/ruggerimonique/)
 
 Feel free to connect with me or check out my projects below!
