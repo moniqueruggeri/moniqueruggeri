@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Monique! 👋
 
-<!--
-**moniqueruggeri/moniqueruggeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently transitioning into the world of Front-end development, where I’m diving deep into HTML, CSS, JavaScript, and React. 🚀
 
-Here are some ideas to get you started:
+With a background in UX/UI design, I bring a strong understanding of user-centered design principles to my work, focusing on creating functional and visually engaging websites. 🎨💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning:
+- HTML5, CSS3
+- JavaScript (ES6+)
+- React.js
+- Responsive Web Design
+
+### 🌟 Skills:
+- UI Design
+- Prototyping
+- Web Accessibility
+
+### 📍 Based in Portugal, open to remote opportunities!
+
+Feel free to connect with me or check out my projects below!
