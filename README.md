@@ -5,10 +5,15 @@ I’m currently transitioning into the world of Front-end development, where I�
 With a background in UX/UI design, I bring a strong understanding of user-centered design principles to my work, focusing on creating functional and visually engaging websites. 🎨💻
 
 ### 🌱 Currently Learning:
-- HTML5, CSS3
 - JavaScript (ES6+)
 - React.js
 - Responsive Web Design
+- Cobol
+- JAVA
+- C++
+- C#
+- C
+- Python
 
 ### 🌟 Skills:
 - UI Design
