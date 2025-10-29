@@ -1,29 +1,44 @@
-# Hi, I'm Monique! 👋
+# 👋 Hi, I'm Monique Ruggeri
 
-I’m currently transitioning into the world of Front-end development, where I’m diving deep into HTML, CSS, JavaScript, and React. 🚀
+🎨 Frontend Developer with a background in UX/UI Design — passionate about building clean, functional, and visually engaging web interfaces.  
+💻 Transitioning from a 5-year career in Art Direction and Design to Frontend Development, combining creativity with code.
 
-With a background in UX/UI design, I bring a strong understanding of user-centered design principles to my work, focusing on creating functional and visually engaging websites. 🎨💻
+---
 
-### 🌱 Currently Learning:
+### 🚀 What I’m Working On
+- **IceTrack** – Hockey performance tracker built with React and TailwindCSS.  
+- **GameTrace** – Sports data visualization app exploring UI flow and user interaction.
+
+---
+
+### 🌱 Currently Learning
 - JavaScript (ES6+)
 - React.js
 - Responsive Web Design
-- Cobol
-- JAVA
-- C++
-- C#
-- C
-- Python
+- Python  
+- COBOL / JAVA / C++ / C# / C *(academic curiosity & multi-language foundation)*
 
-### 🌟 Skills:
-- UI Design
-- Prototyping
-- Web Accessibility
+---
 
-### 📍 Based in Portugal, open to remote opportunities!
+### 🧠 Tech & Design Stack
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), React, TailwindCSS  
+**Design:** Figma, Design Systems, Prototyping, Web Accessibility  
+**Version Control:** Git & GitHub  
+**Workflow:** Agile principles, UX/UI collaboration
 
-## 🔗 Connect with Me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/ruggerimonique/)
+### 📍 Based in
+Lisbon, Portugal 🇵🇹  
+Open to remote and relocation opportunities (Canada 🇨🇦)
 
-Feel free to connect with me or check out my projects below!
+---
+
+### 🔗 Connect with Me
+[💼 LinkedIn](https://www.linkedin.com/in/ruggerimonique)  
+[🌐 Portfolio (coming soon)](https://www.moniqueruggeridev.pt/)  
+📧 ruggeri.monique@gmail.com  
+
+---
+
+✨ *Always learning, always creating — turning design into code, one component at a time.*
