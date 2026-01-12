@@ -1,44 +1,47 @@
-# 👋 Hi, I'm Monique Ruggeri
+# Hi, I'm Monique 👋
 
-🎨 Frontend Developer with a background in UX/UI Design — passionate about building clean, functional, and visually engaging web interfaces.  
-💻 Transitioning from a 5-year career in Art Direction and Design to Frontend Development, combining creativity with code.
+![Frontend](https://img.shields.io/badge/Focus-Frontend-lightblue)
+![Backend](https://img.shields.io/badge/Focus-Backend-lightgrey)
+![Study](https://img.shields.io/badge/Status-Learning-blue)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-success)
 
----
+I'm a **frontend-focused developer in training**, with a strong interest in **UI, design systems and clean interfaces**, currently expanding my skills into **backend fundamentals**.
 
-### 🚀 What I’m Working On
-- **IceTrack** – Hockey performance tracker built with React and TailwindCSS.  
-- **GameTrace** – Sports data visualization app exploring UI flow and user interaction.
-
----
-
-### 🌱 Currently Learning
-- JavaScript (ES6+)
-- React.js
-- Responsive Web Design
-- Python  
-- COBOL / JAVA / C++ / C# / C *(academic curiosity & multi-language foundation)*
+I enjoy learning through **hands-on projects**, keeping my studies organized and well documented.
 
 ---
 
-### 🧠 Tech & Design Stack
-**Frontend:** HTML5, CSS3, JavaScript (ES6+), React, TailwindCSS  
-**Design:** Figma, Design Systems, Prototyping, Web Accessibility  
-**Version Control:** Git & GitHub  
-**Workflow:** Agile principles, UX/UI collaboration
+## 🧠 What I'm studying
+
+- **Frontend:** HTML, CSS, JavaScript, responsive layouts  
+- **Backend fundamentals:** C, C++, COBOL  
+- **Version control:** Git & GitHub  
+- **Design mindset:** structure first, visuals matter
 
 ---
 
-### 📍 Based in
-Lisbon, Portugal 🇵🇹  
-Open to remote and relocation opportunities (Canada 🇨🇦)
+## 🧪 Learning Lab
+
+Most of my practice projects live here 👇  
+📂 **[learning-lab](https://github.com/moniqueruggeri/learning-lab)**
+
+- Frontend mini-projects and challenges  
+- Backend exercises and academic studies  
+- Each project documented with a short README
 
 ---
 
-### 🔗 Connect with Me
-[💼 LinkedIn](https://www.linkedin.com/in/ruggerimonique)  
-[🌐 Portfolio (coming soon)](https://www.moniqueruggeridev.pt/)  
-📧 ruggeri.monique@gmail.com  
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-001C55)
 
 ---
 
-✨ *Always learning, always creating — turning design into code, one component at a time.*
+📍 Based in Portugal  
+🌱 Always learning and improving  
+✨ Building consistency through practice
